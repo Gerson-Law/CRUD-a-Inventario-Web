@@ -13,6 +13,6 @@
     <a href="WEB-INF/css/bootstrap.min.css.map"></a>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Login Aceptado!</h1>
     </body>
 </html>
